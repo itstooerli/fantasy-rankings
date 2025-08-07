@@ -29,6 +29,30 @@ npm install
 pnpm install
 ```
 
+## To Do
+
+### Phase I
+* [x] Create default template
+* [x] Add basic components to visualize board
+* [x] Load players
+
+### Phase II
+* [ ] Add CSS files
+* [ ] Add color coding, at least for positions
+* [ ] Add strings file to track in one location
+* [ ] Add ability to save/reload
+* [ ] Add ability to reset
+
+### Phase III
+* [ ] Add ability to add notes
+* [ ] Add ability to add symbols/markers
+* [ ] Add ability to re-shape the rows and columns
+* [ ] Add ability to sort on various information
+* [ ] Add ability to easily search and filter for a player
+
+### Phase IV
+* [ ] Add loading UI when fetching players
+
 ## Contributing
 
 Author: Eric Li
